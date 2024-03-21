@@ -1,4 +1,4 @@
-Get a bearer tokens from Azure Entra ID and copy it to some other location. 
+Get a bearer tokens from Azure Entra ID and copy it to some local location.
 
 **Requirements**
 - Azure CLI
